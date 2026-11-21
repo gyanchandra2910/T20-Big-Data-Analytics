@@ -1,0 +1,7 @@
+.venv/
+.work/
+.ipynb_checkpoints/
+__pycache__/
+/big_data.zip
+/T20_Big_Data_Analytics_Report.pdf
+/T20_Big_Data_Analytics_Overleaf.zip

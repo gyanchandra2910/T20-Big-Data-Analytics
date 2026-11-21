@@ -1,0 +1,2 @@
+# Keep the raw CSV bytes identical to the hashes in the dataset manifest.
+/data/raw/*.csv -text

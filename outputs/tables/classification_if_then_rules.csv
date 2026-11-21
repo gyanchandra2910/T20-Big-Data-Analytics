@@ -1,0 +1,25 @@
+engine,model,leaf,if_then_rule,fit_matches_at_leaf,chase_win_probability
+scikit-learn,entropy,3,IF first_total_runs <= 157.5 AND first_total_runs <= 114.5 AND first_total_runs <= 89.5 THEN Chase win,111.0,1.0
+scikit-learn,entropy,4,IF first_total_runs <= 157.5 AND first_total_runs <= 114.5 AND first_total_runs > 89.5 THEN Chase win,182.0,0.8956043956043956
+scikit-learn,entropy,6,IF first_total_runs <= 157.5 AND first_total_runs > 114.5 AND chasing_team_infrequent_sklearn <= 0.5 THEN Chase win,555.0,0.6792792792792792
+scikit-learn,entropy,7,IF first_total_runs <= 157.5 AND first_total_runs > 114.5 AND chasing_team_infrequent_sklearn > 0.5 THEN Defending win,174.0,0.45977011494252873
+scikit-learn,entropy,10,IF first_total_runs > 157.5 AND chasing_team_infrequent_sklearn <= 0.5 AND first_total_runs <= 177.5 THEN Defending win,291.0,0.3745704467353952
+scikit-learn,entropy,11,IF first_total_runs > 157.5 AND chasing_team_infrequent_sklearn <= 0.5 AND first_total_runs > 177.5 THEN Defending win,359.0,0.18662952646239556
+scikit-learn,entropy,13,IF first_total_runs > 157.5 AND chasing_team_infrequent_sklearn > 0.5 AND first_total_runs <= 196.5 THEN Defending win,115.0,0.10434782608695652
+scikit-learn,entropy,14,IF first_total_runs > 157.5 AND chasing_team_infrequent_sklearn > 0.5 AND first_total_runs > 196.5 THEN Defending win,49.0,0.0
+scikit-learn,gini,3,IF first_total_runs <= 157.5 AND first_total_runs <= 130.5 AND first_total_runs <= 109.5 THEN Chase win,249.0,0.9518072289156626
+scikit-learn,gini,4,IF first_total_runs <= 157.5 AND first_total_runs <= 130.5 AND first_total_runs > 109.5 THEN Chase win,262.0,0.767175572519084
+scikit-learn,gini,6,IF first_total_runs <= 157.5 AND first_total_runs > 130.5 AND chasing_team_infrequent_sklearn <= 0.5 THEN Chase win,388.0,0.6211340206185567
+scikit-learn,gini,7,IF first_total_runs <= 157.5 AND first_total_runs > 130.5 AND chasing_team_infrequent_sklearn > 0.5 THEN Defending win,123.0,0.42276422764227645
+scikit-learn,gini,10,IF first_total_runs > 157.5 AND first_total_runs <= 177.5 AND chasing_team_infrequent_sklearn <= 0.5 THEN Defending win,291.0,0.3745704467353952
+scikit-learn,gini,11,IF first_total_runs > 157.5 AND first_total_runs <= 177.5 AND chasing_team_infrequent_sklearn > 0.5 THEN Defending win,66.0,0.12121212121212122
+scikit-learn,gini,13,IF first_total_runs > 157.5 AND first_total_runs > 177.5 AND chasing_team_India <= 0.5 THEN Defending win,435.0,0.14022988505747128
+scikit-learn,gini,14,IF first_total_runs > 157.5 AND first_total_runs > 177.5 AND chasing_team_India > 0.5 THEN Defending win,22.0,0.45454545454545453
+PySpark,entropy,1,IF first_total_runs <= 146.5 AND first_total_runs <= 113.5 THEN Chase win,,
+PySpark,entropy,2,IF first_total_runs <= 146.5 AND first_total_runs > 113.5 AND chasing_team_infrequent_sklearn <= 0.5 THEN Chase win,,
+PySpark,entropy,3,IF first_total_runs <= 146.5 AND first_total_runs > 113.5 AND chasing_team_infrequent_sklearn > 0.5 THEN Defending win,,
+PySpark,entropy,4,IF first_total_runs > 146.5 THEN Defending win,,
+PySpark,gini,1,IF first_total_runs <= 146.5 AND first_total_runs <= 113.5 THEN Chase win,,
+PySpark,gini,2,IF first_total_runs <= 146.5 AND first_total_runs > 113.5 AND chasing_team_infrequent_sklearn <= 0.5 THEN Chase win,,
+PySpark,gini,3,IF first_total_runs <= 146.5 AND first_total_runs > 113.5 AND chasing_team_infrequent_sklearn > 0.5 THEN Defending win,,
+PySpark,gini,4,IF first_total_runs > 146.5 THEN Defending win,,

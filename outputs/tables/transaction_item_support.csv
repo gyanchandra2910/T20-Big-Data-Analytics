@@ -1,0 +1,13 @@
+item,support_count,support_pct
+boundary_share=high,2302,49.95659722222222
+boundary_share=low,2306,50.04340277777778
+order=first,2304,50.0
+order=second,2304,50.0
+outcome=lost,2304,50.0
+outcome=won,2304,50.0
+pace=high,2304,50.0
+pace=low,2304,50.0
+toss=lost,2304,50.0
+toss=won,2304,50.0
+wickets_lost=few,2762,59.939236111111114
+wickets_lost=many,1846,40.060763888888886

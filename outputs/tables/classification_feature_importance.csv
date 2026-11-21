@@ -1,0 +1,445 @@
+engine,model,feature,importance
+scikit-learn,entropy,first_total_runs,0.909692292982121
+scikit-learn,entropy,first_wickets_lost,0.0
+scikit-learn,entropy,first_legal_balls,0.0
+scikit-learn,entropy,first_boundary_pct,0.0
+scikit-learn,entropy,batting_first_team_Afghanistan,0.0
+scikit-learn,entropy,batting_first_team_Australia,0.0
+scikit-learn,entropy,batting_first_team_Austria,0.0
+scikit-learn,entropy,batting_first_team_Bahrain,0.0
+scikit-learn,entropy,batting_first_team_Bangladesh,0.0
+scikit-learn,entropy,batting_first_team_Botswana,0.0
+scikit-learn,entropy,batting_first_team_Bulgaria,0.0
+scikit-learn,entropy,batting_first_team_Canada,0.0
+scikit-learn,entropy,batting_first_team_Denmark,0.0
+scikit-learn,entropy,batting_first_team_England,0.0
+scikit-learn,entropy,batting_first_team_Germany,0.0
+scikit-learn,entropy,batting_first_team_Gibraltar,0.0
+scikit-learn,entropy,batting_first_team_Hong Kong,0.0
+scikit-learn,entropy,batting_first_team_India,0.0
+scikit-learn,entropy,batting_first_team_Ireland,0.0
+scikit-learn,entropy,batting_first_team_Jersey,0.0
+scikit-learn,entropy,batting_first_team_Kenya,0.0
+scikit-learn,entropy,batting_first_team_Malaysia,0.0
+scikit-learn,entropy,batting_first_team_Malta,0.0
+scikit-learn,entropy,batting_first_team_Namibia,0.0
+scikit-learn,entropy,batting_first_team_Nepal,0.0
+scikit-learn,entropy,batting_first_team_Netherlands,0.0
+scikit-learn,entropy,batting_first_team_New Zealand,0.0
+scikit-learn,entropy,batting_first_team_Nigeria,0.0
+scikit-learn,entropy,batting_first_team_Oman,0.0
+scikit-learn,entropy,batting_first_team_P.N.G.,0.0
+scikit-learn,entropy,batting_first_team_Pakistan,0.0
+scikit-learn,entropy,batting_first_team_Romania,0.0
+scikit-learn,entropy,batting_first_team_Scotland,0.0
+scikit-learn,entropy,batting_first_team_Singapore,0.0
+scikit-learn,entropy,batting_first_team_South Africa,0.0
+scikit-learn,entropy,batting_first_team_Sri Lanka,0.0
+scikit-learn,entropy,batting_first_team_Tanzania,0.0
+scikit-learn,entropy,batting_first_team_U.A.E.,0.0
+scikit-learn,entropy,batting_first_team_Uganda,0.0
+scikit-learn,entropy,batting_first_team_West Indies,0.0
+scikit-learn,entropy,batting_first_team_Zimbabwe,0.0
+scikit-learn,entropy,batting_first_team_infrequent_sklearn,0.0
+scikit-learn,entropy,chasing_team_Afghanistan,0.0
+scikit-learn,entropy,chasing_team_Australia,0.0
+scikit-learn,entropy,chasing_team_Bahrain,0.0
+scikit-learn,entropy,chasing_team_Bangladesh,0.0
+scikit-learn,entropy,chasing_team_Bulgaria,0.0
+scikit-learn,entropy,chasing_team_Canada,0.0
+scikit-learn,entropy,chasing_team_Czech Rep.,0.0
+scikit-learn,entropy,chasing_team_England,0.0
+scikit-learn,entropy,chasing_team_Germany,0.0
+scikit-learn,entropy,chasing_team_Hong Kong,0.0
+scikit-learn,entropy,chasing_team_India,0.0
+scikit-learn,entropy,chasing_team_Ireland,0.0
+scikit-learn,entropy,chasing_team_Kenya,0.0
+scikit-learn,entropy,chasing_team_Kuwait,0.0
+scikit-learn,entropy,chasing_team_Malaysia,0.0
+scikit-learn,entropy,chasing_team_Malta,0.0
+scikit-learn,entropy,chasing_team_Mozambique,0.0
+scikit-learn,entropy,chasing_team_Namibia,0.0
+scikit-learn,entropy,chasing_team_Nepal,0.0
+scikit-learn,entropy,chasing_team_Netherlands,0.0
+scikit-learn,entropy,chasing_team_New Zealand,0.0
+scikit-learn,entropy,chasing_team_Oman,0.0
+scikit-learn,entropy,chasing_team_P.N.G.,0.0
+scikit-learn,entropy,chasing_team_Pakistan,0.0
+scikit-learn,entropy,chasing_team_Qatar,0.0
+scikit-learn,entropy,chasing_team_Scotland,0.0
+scikit-learn,entropy,chasing_team_South Africa,0.0
+scikit-learn,entropy,chasing_team_Spain,0.0
+scikit-learn,entropy,chasing_team_Sri Lanka,0.0
+scikit-learn,entropy,chasing_team_U.A.E.,0.0
+scikit-learn,entropy,chasing_team_Uganda,0.0
+scikit-learn,entropy,chasing_team_West Indies,0.0
+scikit-learn,entropy,chasing_team_Zimbabwe,0.0
+scikit-learn,entropy,chasing_team_infrequent_sklearn,0.09030770701787909
+scikit-learn,entropy,venue_country_Australia,0.0
+scikit-learn,entropy,venue_country_Bangladesh,0.0
+scikit-learn,entropy,venue_country_Belgium,0.0
+scikit-learn,entropy,venue_country_Denmark,0.0
+scikit-learn,entropy,venue_country_England,0.0
+scikit-learn,entropy,venue_country_Finland,0.0
+scikit-learn,entropy,venue_country_Guernsey,0.0
+scikit-learn,entropy,venue_country_India,0.0
+scikit-learn,entropy,venue_country_Ireland,0.0
+scikit-learn,entropy,venue_country_Kenya,0.0
+scikit-learn,entropy,venue_country_Malaysia,0.0
+scikit-learn,entropy,venue_country_Malta,0.0
+scikit-learn,entropy,venue_country_Nepal,0.0
+scikit-learn,entropy,venue_country_Netherlands,0.0
+scikit-learn,entropy,venue_country_New Zealand,0.0
+scikit-learn,entropy,venue_country_Oman,0.0
+scikit-learn,entropy,venue_country_Pakistan,0.0
+scikit-learn,entropy,venue_country_Qatar,0.0
+scikit-learn,entropy,venue_country_Romania,0.0
+scikit-learn,entropy,venue_country_Rwanda,0.0
+scikit-learn,entropy,venue_country_Scotland,0.0
+scikit-learn,entropy,venue_country_Singapore,0.0
+scikit-learn,entropy,venue_country_South Africa,0.0
+scikit-learn,entropy,venue_country_Spain,0.0
+scikit-learn,entropy,venue_country_Sri Lanka,0.0
+scikit-learn,entropy,venue_country_Uganda,0.0
+scikit-learn,entropy,venue_country_United Arab Emirates,0.0
+scikit-learn,entropy,venue_country_West Indies,0.0
+scikit-learn,entropy,venue_country_Zimbabwe,0.0
+scikit-learn,entropy,venue_country_infrequent_sklearn,0.0
+scikit-learn,entropy,toss_choice_bat,0.0
+scikit-learn,entropy,toss_choice_bowl,0.0
+scikit-learn,entropy,toss_side_chaser,0.0
+scikit-learn,entropy,toss_side_setter,0.0
+scikit-learn,entropy,toss_side_infrequent_sklearn,0.0
+scikit-learn,gini,first_total_runs,0.9371576154568197
+scikit-learn,gini,first_wickets_lost,0.0
+scikit-learn,gini,first_legal_balls,0.0
+scikit-learn,gini,first_boundary_pct,0.0
+scikit-learn,gini,batting_first_team_Afghanistan,0.0
+scikit-learn,gini,batting_first_team_Australia,0.0
+scikit-learn,gini,batting_first_team_Austria,0.0
+scikit-learn,gini,batting_first_team_Bahrain,0.0
+scikit-learn,gini,batting_first_team_Bangladesh,0.0
+scikit-learn,gini,batting_first_team_Botswana,0.0
+scikit-learn,gini,batting_first_team_Bulgaria,0.0
+scikit-learn,gini,batting_first_team_Canada,0.0
+scikit-learn,gini,batting_first_team_Denmark,0.0
+scikit-learn,gini,batting_first_team_England,0.0
+scikit-learn,gini,batting_first_team_Germany,0.0
+scikit-learn,gini,batting_first_team_Gibraltar,0.0
+scikit-learn,gini,batting_first_team_Hong Kong,0.0
+scikit-learn,gini,batting_first_team_India,0.0
+scikit-learn,gini,batting_first_team_Ireland,0.0
+scikit-learn,gini,batting_first_team_Jersey,0.0
+scikit-learn,gini,batting_first_team_Kenya,0.0
+scikit-learn,gini,batting_first_team_Malaysia,0.0
+scikit-learn,gini,batting_first_team_Malta,0.0
+scikit-learn,gini,batting_first_team_Namibia,0.0
+scikit-learn,gini,batting_first_team_Nepal,0.0
+scikit-learn,gini,batting_first_team_Netherlands,0.0
+scikit-learn,gini,batting_first_team_New Zealand,0.0
+scikit-learn,gini,batting_first_team_Nigeria,0.0
+scikit-learn,gini,batting_first_team_Oman,0.0
+scikit-learn,gini,batting_first_team_P.N.G.,0.0
+scikit-learn,gini,batting_first_team_Pakistan,0.0
+scikit-learn,gini,batting_first_team_Romania,0.0
+scikit-learn,gini,batting_first_team_Scotland,0.0
+scikit-learn,gini,batting_first_team_Singapore,0.0
+scikit-learn,gini,batting_first_team_South Africa,0.0
+scikit-learn,gini,batting_first_team_Sri Lanka,0.0
+scikit-learn,gini,batting_first_team_Tanzania,0.0
+scikit-learn,gini,batting_first_team_U.A.E.,0.0
+scikit-learn,gini,batting_first_team_Uganda,0.0
+scikit-learn,gini,batting_first_team_West Indies,0.0
+scikit-learn,gini,batting_first_team_Zimbabwe,0.0
+scikit-learn,gini,batting_first_team_infrequent_sklearn,0.0
+scikit-learn,gini,chasing_team_Afghanistan,0.0
+scikit-learn,gini,chasing_team_Australia,0.0
+scikit-learn,gini,chasing_team_Bahrain,0.0
+scikit-learn,gini,chasing_team_Bangladesh,0.0
+scikit-learn,gini,chasing_team_Bulgaria,0.0
+scikit-learn,gini,chasing_team_Canada,0.0
+scikit-learn,gini,chasing_team_Czech Rep.,0.0
+scikit-learn,gini,chasing_team_England,0.0
+scikit-learn,gini,chasing_team_Germany,0.0
+scikit-learn,gini,chasing_team_Hong Kong,0.0
+scikit-learn,gini,chasing_team_India,0.01413583906171904
+scikit-learn,gini,chasing_team_Ireland,0.0
+scikit-learn,gini,chasing_team_Kenya,0.0
+scikit-learn,gini,chasing_team_Kuwait,0.0
+scikit-learn,gini,chasing_team_Malaysia,0.0
+scikit-learn,gini,chasing_team_Malta,0.0
+scikit-learn,gini,chasing_team_Mozambique,0.0
+scikit-learn,gini,chasing_team_Namibia,0.0
+scikit-learn,gini,chasing_team_Nepal,0.0
+scikit-learn,gini,chasing_team_Netherlands,0.0
+scikit-learn,gini,chasing_team_New Zealand,0.0
+scikit-learn,gini,chasing_team_Oman,0.0
+scikit-learn,gini,chasing_team_P.N.G.,0.0
+scikit-learn,gini,chasing_team_Pakistan,0.0
+scikit-learn,gini,chasing_team_Qatar,0.0
+scikit-learn,gini,chasing_team_Scotland,0.0
+scikit-learn,gini,chasing_team_South Africa,0.0
+scikit-learn,gini,chasing_team_Spain,0.0
+scikit-learn,gini,chasing_team_Sri Lanka,0.0
+scikit-learn,gini,chasing_team_U.A.E.,0.0
+scikit-learn,gini,chasing_team_Uganda,0.0
+scikit-learn,gini,chasing_team_West Indies,0.0
+scikit-learn,gini,chasing_team_Zimbabwe,0.0
+scikit-learn,gini,chasing_team_infrequent_sklearn,0.048706545481461104
+scikit-learn,gini,venue_country_Australia,0.0
+scikit-learn,gini,venue_country_Bangladesh,0.0
+scikit-learn,gini,venue_country_Belgium,0.0
+scikit-learn,gini,venue_country_Denmark,0.0
+scikit-learn,gini,venue_country_England,0.0
+scikit-learn,gini,venue_country_Finland,0.0
+scikit-learn,gini,venue_country_Guernsey,0.0
+scikit-learn,gini,venue_country_India,0.0
+scikit-learn,gini,venue_country_Ireland,0.0
+scikit-learn,gini,venue_country_Kenya,0.0
+scikit-learn,gini,venue_country_Malaysia,0.0
+scikit-learn,gini,venue_country_Malta,0.0
+scikit-learn,gini,venue_country_Nepal,0.0
+scikit-learn,gini,venue_country_Netherlands,0.0
+scikit-learn,gini,venue_country_New Zealand,0.0
+scikit-learn,gini,venue_country_Oman,0.0
+scikit-learn,gini,venue_country_Pakistan,0.0
+scikit-learn,gini,venue_country_Qatar,0.0
+scikit-learn,gini,venue_country_Romania,0.0
+scikit-learn,gini,venue_country_Rwanda,0.0
+scikit-learn,gini,venue_country_Scotland,0.0
+scikit-learn,gini,venue_country_Singapore,0.0
+scikit-learn,gini,venue_country_South Africa,0.0
+scikit-learn,gini,venue_country_Spain,0.0
+scikit-learn,gini,venue_country_Sri Lanka,0.0
+scikit-learn,gini,venue_country_Uganda,0.0
+scikit-learn,gini,venue_country_United Arab Emirates,0.0
+scikit-learn,gini,venue_country_West Indies,0.0
+scikit-learn,gini,venue_country_Zimbabwe,0.0
+scikit-learn,gini,venue_country_infrequent_sklearn,0.0
+scikit-learn,gini,toss_choice_bat,0.0
+scikit-learn,gini,toss_choice_bowl,0.0
+scikit-learn,gini,toss_side_chaser,0.0
+scikit-learn,gini,toss_side_setter,0.0
+scikit-learn,gini,toss_side_infrequent_sklearn,0.0
+PySpark,entropy,first_total_runs,0.949147057500543
+PySpark,entropy,first_wickets_lost,0.0
+PySpark,entropy,first_legal_balls,0.0
+PySpark,entropy,first_boundary_pct,0.0
+PySpark,entropy,batting_first_team_Afghanistan,0.0
+PySpark,entropy,batting_first_team_Australia,0.0
+PySpark,entropy,batting_first_team_Austria,0.0
+PySpark,entropy,batting_first_team_Bahrain,0.0
+PySpark,entropy,batting_first_team_Bangladesh,0.0
+PySpark,entropy,batting_first_team_Botswana,0.0
+PySpark,entropy,batting_first_team_Bulgaria,0.0
+PySpark,entropy,batting_first_team_Canada,0.0
+PySpark,entropy,batting_first_team_Denmark,0.0
+PySpark,entropy,batting_first_team_England,0.0
+PySpark,entropy,batting_first_team_Germany,0.0
+PySpark,entropy,batting_first_team_Gibraltar,0.0
+PySpark,entropy,batting_first_team_Hong Kong,0.0
+PySpark,entropy,batting_first_team_India,0.0
+PySpark,entropy,batting_first_team_Ireland,0.0
+PySpark,entropy,batting_first_team_Jersey,0.0
+PySpark,entropy,batting_first_team_Kenya,0.0
+PySpark,entropy,batting_first_team_Malaysia,0.0
+PySpark,entropy,batting_first_team_Malta,0.0
+PySpark,entropy,batting_first_team_Namibia,0.0
+PySpark,entropy,batting_first_team_Nepal,0.0
+PySpark,entropy,batting_first_team_Netherlands,0.0
+PySpark,entropy,batting_first_team_New Zealand,0.0
+PySpark,entropy,batting_first_team_Nigeria,0.0
+PySpark,entropy,batting_first_team_Oman,0.0
+PySpark,entropy,batting_first_team_P.N.G.,0.0
+PySpark,entropy,batting_first_team_Pakistan,0.0
+PySpark,entropy,batting_first_team_Romania,0.0
+PySpark,entropy,batting_first_team_Scotland,0.0
+PySpark,entropy,batting_first_team_Singapore,0.0
+PySpark,entropy,batting_first_team_South Africa,0.0
+PySpark,entropy,batting_first_team_Sri Lanka,0.0
+PySpark,entropy,batting_first_team_Tanzania,0.0
+PySpark,entropy,batting_first_team_U.A.E.,0.0
+PySpark,entropy,batting_first_team_Uganda,0.0
+PySpark,entropy,batting_first_team_West Indies,0.0
+PySpark,entropy,batting_first_team_Zimbabwe,0.0
+PySpark,entropy,batting_first_team_infrequent_sklearn,0.0
+PySpark,entropy,chasing_team_Afghanistan,0.0
+PySpark,entropy,chasing_team_Australia,0.0
+PySpark,entropy,chasing_team_Bahrain,0.0
+PySpark,entropy,chasing_team_Bangladesh,0.0
+PySpark,entropy,chasing_team_Bulgaria,0.0
+PySpark,entropy,chasing_team_Canada,0.0
+PySpark,entropy,chasing_team_Czech Rep.,0.0
+PySpark,entropy,chasing_team_England,0.0
+PySpark,entropy,chasing_team_Germany,0.0
+PySpark,entropy,chasing_team_Hong Kong,0.0
+PySpark,entropy,chasing_team_India,0.0
+PySpark,entropy,chasing_team_Ireland,0.0
+PySpark,entropy,chasing_team_Kenya,0.0
+PySpark,entropy,chasing_team_Kuwait,0.0
+PySpark,entropy,chasing_team_Malaysia,0.0
+PySpark,entropy,chasing_team_Malta,0.0
+PySpark,entropy,chasing_team_Mozambique,0.0
+PySpark,entropy,chasing_team_Namibia,0.0
+PySpark,entropy,chasing_team_Nepal,0.0
+PySpark,entropy,chasing_team_Netherlands,0.0
+PySpark,entropy,chasing_team_New Zealand,0.0
+PySpark,entropy,chasing_team_Oman,0.0
+PySpark,entropy,chasing_team_P.N.G.,0.0
+PySpark,entropy,chasing_team_Pakistan,0.0
+PySpark,entropy,chasing_team_Qatar,0.0
+PySpark,entropy,chasing_team_Scotland,0.0
+PySpark,entropy,chasing_team_South Africa,0.0
+PySpark,entropy,chasing_team_Spain,0.0
+PySpark,entropy,chasing_team_Sri Lanka,0.0
+PySpark,entropy,chasing_team_U.A.E.,0.0
+PySpark,entropy,chasing_team_Uganda,0.0
+PySpark,entropy,chasing_team_West Indies,0.0
+PySpark,entropy,chasing_team_Zimbabwe,0.0
+PySpark,entropy,chasing_team_infrequent_sklearn,0.050852942499456995
+PySpark,entropy,venue_country_Australia,0.0
+PySpark,entropy,venue_country_Bangladesh,0.0
+PySpark,entropy,venue_country_Belgium,0.0
+PySpark,entropy,venue_country_Denmark,0.0
+PySpark,entropy,venue_country_England,0.0
+PySpark,entropy,venue_country_Finland,0.0
+PySpark,entropy,venue_country_Guernsey,0.0
+PySpark,entropy,venue_country_India,0.0
+PySpark,entropy,venue_country_Ireland,0.0
+PySpark,entropy,venue_country_Kenya,0.0
+PySpark,entropy,venue_country_Malaysia,0.0
+PySpark,entropy,venue_country_Malta,0.0
+PySpark,entropy,venue_country_Nepal,0.0
+PySpark,entropy,venue_country_Netherlands,0.0
+PySpark,entropy,venue_country_New Zealand,0.0
+PySpark,entropy,venue_country_Oman,0.0
+PySpark,entropy,venue_country_Pakistan,0.0
+PySpark,entropy,venue_country_Qatar,0.0
+PySpark,entropy,venue_country_Romania,0.0
+PySpark,entropy,venue_country_Rwanda,0.0
+PySpark,entropy,venue_country_Scotland,0.0
+PySpark,entropy,venue_country_Singapore,0.0
+PySpark,entropy,venue_country_South Africa,0.0
+PySpark,entropy,venue_country_Spain,0.0
+PySpark,entropy,venue_country_Sri Lanka,0.0
+PySpark,entropy,venue_country_Uganda,0.0
+PySpark,entropy,venue_country_United Arab Emirates,0.0
+PySpark,entropy,venue_country_West Indies,0.0
+PySpark,entropy,venue_country_Zimbabwe,0.0
+PySpark,entropy,venue_country_infrequent_sklearn,0.0
+PySpark,entropy,toss_choice_bat,0.0
+PySpark,entropy,toss_choice_bowl,0.0
+PySpark,entropy,toss_side_chaser,0.0
+PySpark,entropy,toss_side_setter,0.0
+PySpark,entropy,toss_side_infrequent_sklearn,0.0
+PySpark,gini,first_total_runs,0.9487103422775299
+PySpark,gini,first_wickets_lost,0.0
+PySpark,gini,first_legal_balls,0.0
+PySpark,gini,first_boundary_pct,0.0
+PySpark,gini,batting_first_team_Afghanistan,0.0
+PySpark,gini,batting_first_team_Australia,0.0
+PySpark,gini,batting_first_team_Austria,0.0
+PySpark,gini,batting_first_team_Bahrain,0.0
+PySpark,gini,batting_first_team_Bangladesh,0.0
+PySpark,gini,batting_first_team_Botswana,0.0
+PySpark,gini,batting_first_team_Bulgaria,0.0
+PySpark,gini,batting_first_team_Canada,0.0
+PySpark,gini,batting_first_team_Denmark,0.0
+PySpark,gini,batting_first_team_England,0.0
+PySpark,gini,batting_first_team_Germany,0.0
+PySpark,gini,batting_first_team_Gibraltar,0.0
+PySpark,gini,batting_first_team_Hong Kong,0.0
+PySpark,gini,batting_first_team_India,0.0
+PySpark,gini,batting_first_team_Ireland,0.0
+PySpark,gini,batting_first_team_Jersey,0.0
+PySpark,gini,batting_first_team_Kenya,0.0
+PySpark,gini,batting_first_team_Malaysia,0.0
+PySpark,gini,batting_first_team_Malta,0.0
+PySpark,gini,batting_first_team_Namibia,0.0
+PySpark,gini,batting_first_team_Nepal,0.0
+PySpark,gini,batting_first_team_Netherlands,0.0
+PySpark,gini,batting_first_team_New Zealand,0.0
+PySpark,gini,batting_first_team_Nigeria,0.0
+PySpark,gini,batting_first_team_Oman,0.0
+PySpark,gini,batting_first_team_P.N.G.,0.0
+PySpark,gini,batting_first_team_Pakistan,0.0
+PySpark,gini,batting_first_team_Romania,0.0
+PySpark,gini,batting_first_team_Scotland,0.0
+PySpark,gini,batting_first_team_Singapore,0.0
+PySpark,gini,batting_first_team_South Africa,0.0
+PySpark,gini,batting_first_team_Sri Lanka,0.0
+PySpark,gini,batting_first_team_Tanzania,0.0
+PySpark,gini,batting_first_team_U.A.E.,0.0
+PySpark,gini,batting_first_team_Uganda,0.0
+PySpark,gini,batting_first_team_West Indies,0.0
+PySpark,gini,batting_first_team_Zimbabwe,0.0
+PySpark,gini,batting_first_team_infrequent_sklearn,0.0
+PySpark,gini,chasing_team_Afghanistan,0.0
+PySpark,gini,chasing_team_Australia,0.0
+PySpark,gini,chasing_team_Bahrain,0.0
+PySpark,gini,chasing_team_Bangladesh,0.0
+PySpark,gini,chasing_team_Bulgaria,0.0
+PySpark,gini,chasing_team_Canada,0.0
+PySpark,gini,chasing_team_Czech Rep.,0.0
+PySpark,gini,chasing_team_England,0.0
+PySpark,gini,chasing_team_Germany,0.0
+PySpark,gini,chasing_team_Hong Kong,0.0
+PySpark,gini,chasing_team_India,0.0
+PySpark,gini,chasing_team_Ireland,0.0
+PySpark,gini,chasing_team_Kenya,0.0
+PySpark,gini,chasing_team_Kuwait,0.0
+PySpark,gini,chasing_team_Malaysia,0.0
+PySpark,gini,chasing_team_Malta,0.0
+PySpark,gini,chasing_team_Mozambique,0.0
+PySpark,gini,chasing_team_Namibia,0.0
+PySpark,gini,chasing_team_Nepal,0.0
+PySpark,gini,chasing_team_Netherlands,0.0
+PySpark,gini,chasing_team_New Zealand,0.0
+PySpark,gini,chasing_team_Oman,0.0
+PySpark,gini,chasing_team_P.N.G.,0.0
+PySpark,gini,chasing_team_Pakistan,0.0
+PySpark,gini,chasing_team_Qatar,0.0
+PySpark,gini,chasing_team_Scotland,0.0
+PySpark,gini,chasing_team_South Africa,0.0
+PySpark,gini,chasing_team_Spain,0.0
+PySpark,gini,chasing_team_Sri Lanka,0.0
+PySpark,gini,chasing_team_U.A.E.,0.0
+PySpark,gini,chasing_team_Uganda,0.0
+PySpark,gini,chasing_team_West Indies,0.0
+PySpark,gini,chasing_team_Zimbabwe,0.0
+PySpark,gini,chasing_team_infrequent_sklearn,0.05128965772247015
+PySpark,gini,venue_country_Australia,0.0
+PySpark,gini,venue_country_Bangladesh,0.0
+PySpark,gini,venue_country_Belgium,0.0
+PySpark,gini,venue_country_Denmark,0.0
+PySpark,gini,venue_country_England,0.0
+PySpark,gini,venue_country_Finland,0.0
+PySpark,gini,venue_country_Guernsey,0.0
+PySpark,gini,venue_country_India,0.0
+PySpark,gini,venue_country_Ireland,0.0
+PySpark,gini,venue_country_Kenya,0.0
+PySpark,gini,venue_country_Malaysia,0.0
+PySpark,gini,venue_country_Malta,0.0
+PySpark,gini,venue_country_Nepal,0.0
+PySpark,gini,venue_country_Netherlands,0.0
+PySpark,gini,venue_country_New Zealand,0.0
+PySpark,gini,venue_country_Oman,0.0
+PySpark,gini,venue_country_Pakistan,0.0
+PySpark,gini,venue_country_Qatar,0.0
+PySpark,gini,venue_country_Romania,0.0
+PySpark,gini,venue_country_Rwanda,0.0
+PySpark,gini,venue_country_Scotland,0.0
+PySpark,gini,venue_country_Singapore,0.0
+PySpark,gini,venue_country_South Africa,0.0
+PySpark,gini,venue_country_Spain,0.0
+PySpark,gini,venue_country_Sri Lanka,0.0
+PySpark,gini,venue_country_Uganda,0.0
+PySpark,gini,venue_country_United Arab Emirates,0.0
+PySpark,gini,venue_country_West Indies,0.0
+PySpark,gini,venue_country_Zimbabwe,0.0
+PySpark,gini,venue_country_infrequent_sklearn,0.0
+PySpark,gini,toss_choice_bat,0.0
+PySpark,gini,toss_choice_bowl,0.0
+PySpark,gini,toss_side_chaser,0.0
+PySpark,gini,toss_side_setter,0.0
+PySpark,gini,toss_side_infrequent_sklearn,0.0

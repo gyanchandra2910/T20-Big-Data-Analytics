@@ -1,0 +1,7 @@
+table,key_or_candidate,rows,exact_duplicate_rows,complete_key_rows,distinct_complete_keys,repeated_complete_keys,missing_key_rows
+matches,Match ID,2592,0,2592,2592,0,0
+batting,Match ID + innings + team + batsman,56357,0,56331,56331,0,26
+bowling,Match ID + innings + team + bowler id,30648,0,30622,30622,0,26
+partnerships,Match ID + innings + team + for wicket,36799,0,36773,36773,0,26
+fall_of_wicket,Match ID + innings + team + wicket,33093,0,33059,33021,38,34
+players,player_id,6701,0,6701,6701,0,0

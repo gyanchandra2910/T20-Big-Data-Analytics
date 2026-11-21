@@ -1,0 +1,22 @@
+attribute,value,count,relative_frequency
+match_outcome,Decisive,2494,0.9621913580246914
+match_outcome,No result,52,0.020061728395061727
+match_outcome,Tied in regulation,34,0.013117283950617283
+match_outcome,Abandoned,12,0.004629629629629629
+toss_choice,bowl,1362,0.5254629629629629
+toss_choice,bat,1220,0.470679012345679
+toss_choice,(missing),10,0.0038580246913580245
+dismissal_or_status,caught,19351,0.3435231045072873
+dismissal_or_status,dnb,14459,0.2566792707390247
+dismissal_or_status,not out,8818,0.15653902824377341
+dismissal_or_status,bowled,7092,0.12589870586355648
+dismissal_or_status,run out,2810,0.049883722994443554
+dismissal_or_status,lbw,2601,0.04617351014539064
+dismissal_or_status,stumping,1109,0.019687205978945875
+dismissal_or_status,retired not out,49,0.0008698585148497275
+dismissal_or_status,hitwicket,33,0.0005858230814294083
+dismissal_or_status,obstructing the field,4,7.10088583550798e-05
+dismissal_or_status,retired out,4,7.10088583550798e-05
+dismissal_or_status,timed out,1,1.775221458876995e-05
+innings_order,1,2579,0.5036125756688147
+innings_order,2,2542,0.4963874243311853

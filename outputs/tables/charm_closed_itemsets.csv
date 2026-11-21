@@ -1,0 +1,75 @@
+itemset,length,support_count,support_pct
+wickets_lost=few,1,2762,59.939236111111114
+boundary_share=low,1,2306,50.04340277777778
+order=first,1,2304,50.0
+order=second,1,2304,50.0
+outcome=lost,1,2304,50.0
+outcome=won,1,2304,50.0
+pace=high,1,2304,50.0
+pace=low,1,2304,50.0
+toss=lost,1,2304,50.0
+toss=won,1,2304,50.0
+boundary_share=high,1,2302,49.95659722222222
+wickets_lost=many,1,1846,40.060763888888886
+outcome=won + wickets_lost=few,2,1977,42.903645833333336
+pace=high + wickets_lost=few,2,1830,39.713541666666664
+boundary_share=low + pace=low,2,1785,38.736979166666664
+boundary_share=high + pace=high,2,1783,38.693576388888886
+outcome=lost + pace=low,2,1639,35.568576388888886
+outcome=won + pace=high,2,1639,35.568576388888886
+boundary_share=high + wickets_lost=few,2,1629,35.3515625
+outcome=lost + wickets_lost=many,2,1519,32.96440972222222
+boundary_share=low + outcome=lost,2,1469,31.87934027777778
+boundary_share=high + outcome=won,2,1467,31.8359375
+order=second + wickets_lost=few,2,1414,30.68576388888889
+toss=won + wickets_lost=few,2,1383,30.013020833333332
+toss=lost + wickets_lost=few,2,1379,29.92621527777778
+pace=low + wickets_lost=many,2,1372,29.774305555555557
+order=first + wickets_lost=few,2,1348,29.25347222222222
+boundary_share=low + order=first,2,1197,25.9765625
+boundary_share=high + order=second,2,1195,25.93315972222222
+order=first + pace=high,2,1181,25.62934027777778
+order=second + pace=low,2,1181,25.62934027777778
+order=first + toss=lost,2,1177,25.54253472222222
+order=second + toss=won,2,1177,25.54253472222222
+boundary_share=low + wickets_lost=many,2,1173,25.455729166666668
+order=first + outcome=lost,2,1173,25.455729166666668
+order=second + outcome=won,2,1173,25.455729166666668
+outcome=lost + toss=won,2,1172,25.43402777777778
+outcome=won + toss=lost,2,1172,25.43402777777778
+pace=high + toss=won,2,1167,25.325520833333332
+pace=low + toss=lost,2,1167,25.325520833333332
+boundary_share=low + toss=lost,2,1153,25.02170138888889
+boundary_share=low + toss=won,2,1153,25.02170138888889
+boundary_share=high + toss=lost,2,1151,24.97829861111111
+boundary_share=high + toss=won,2,1151,24.97829861111111
+pace=high + toss=lost,2,1137,24.674479166666668
+pace=low + toss=won,2,1137,24.674479166666668
+boundary_share=low + wickets_lost=few,2,1133,24.58767361111111
+outcome=lost + toss=lost,2,1132,24.56597222222222
+outcome=won + toss=won,2,1132,24.56597222222222
+order=first + outcome=won,2,1131,24.544270833333332
+order=second + outcome=lost,2,1131,24.544270833333332
+order=first + toss=won,2,1127,24.45746527777778
+order=second + toss=lost,2,1127,24.45746527777778
+order=first + pace=low,2,1123,24.37065972222222
+order=second + pace=high,2,1123,24.37065972222222
+boundary_share=low + order=second,2,1109,24.06684027777778
+boundary_share=high + order=first,2,1107,24.0234375
+order=first + wickets_lost=many,2,956,20.74652777777778
+pace=low + wickets_lost=few,2,932,20.225694444444443
+toss=lost + wickets_lost=many,2,925,20.07378472222222
+outcome=won + pace=high + wickets_lost=few,3,1463,31.749131944444443
+boundary_share=high + pace=high + wickets_lost=few,3,1413,30.6640625
+boundary_share=high + outcome=won + wickets_lost=few,3,1296,28.125
+boundary_share=low + outcome=lost + pace=low,3,1295,28.10329861111111
+boundary_share=high + outcome=won + pace=high,3,1292,28.038194444444443
+outcome=lost + pace=low + wickets_lost=many,3,1221,26.497395833333332
+order=second + outcome=won + wickets_lost=few,3,1126,24.43576388888889
+boundary_share=low + pace=low + wickets_lost=many,3,1069,23.19878472222222
+boundary_share=low + outcome=lost + wickets_lost=many,3,1017,22.0703125
+outcome=won + toss=lost + wickets_lost=few,3,991,21.50607638888889
+outcome=won + toss=won + wickets_lost=few,3,986,21.397569444444443
+order=first + pace=high + wickets_lost=few,3,948,20.572916666666668
+boundary_share=high + outcome=won + pace=high + wickets_lost=few,4,1156,25.086805555555557
+boundary_share=low + outcome=lost + pace=low + wickets_lost=many,4,953,20.68142361111111

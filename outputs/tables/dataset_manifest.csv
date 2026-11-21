@@ -1,0 +1,7 @@
+table,filename,rows,columns,raw_sha256,dataset_id
+matches,t20i_Matches_Data.csv,2592,33,4a80685d565467766dfbaf2090feb0a3a432c756cbbdc6e25dc21a3ca3fb2b1f,bhuvaneshprasad/all-t20-internationals-dataset-2005-to-2023
+batting,t20i_Batting_Card.csv,56357,13,c73aecb701cb186302de844cce2658bf513bd6f22bdcd39cf399bc0b79fa3586,bhuvaneshprasad/all-t20-internationals-dataset-2005-to-2023
+bowling,t20i_Bowling_Card.csv,30648,16,d1af30df713924002301f9f1dbe95eeef56e12cbe33e32646d9b48629e1b0272,bhuvaneshprasad/all-t20-internationals-dataset-2005-to-2023
+partnerships,t20i_Partnership_Card.csv,36799,13,c5ce55bd9386a765ac48ca4d7ebdd59929941aacaaa57c9e9134338138e5e7ed,bhuvaneshprasad/all-t20-internationals-dataset-2005-to-2023
+fall_of_wicket,t20i_Fow_Card.csv,33093,7,695b5efd1eb39ab6a1b5b4c04b644e261388856b0d594ca0901b7ef20710031f,bhuvaneshprasad/all-t20-internationals-dataset-2005-to-2023
+players,players_info.csv,6701,11,c0b1e45827bf6a77f7aabf3da64b1cac3c795c2e99645233aa73fd59c333f3c7,bhuvaneshprasad/all-t20-internationals-dataset-2005-to-2023

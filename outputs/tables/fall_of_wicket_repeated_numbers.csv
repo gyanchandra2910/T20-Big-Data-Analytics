@@ -1,0 +1,77 @@
+event_id,match_id,innings,batting_team,player_id,wicket,over,score_at_event,ball_position,is_out,wicket_type,confirmed_dismissal
+1010,354458,1,Ireland,6325,4,4.5,23,29,True,bowled,True
+1011,354458,1,Ireland,10342,4,5.4,28,34,False,retired not out,False
+2106,439497,1,Canada,5712,1,0.5,4,5,True,caught,True
+2107,439497,1,Canada,57551,1,1.3,6,9,False,retired not out,False
+3485,560921,2,New Zealand,48927,1,4.0,38,24,True,stumping,True
+3486,560921,2,New Zealand,44930,1,5.6,51,36,False,retired not out,False
+5956,914225,1,New Zealand,51088,3,10.6,94,66,True,caught,True
+5957,914225,1,New Zealand,44930,3,11.6,110,72,False,retired not out,False
+6024,930579,1,Oman,68463,1,3.3,34,21,True,caught,True
+6025,930579,1,Oman,87469,1,3.4,34,22,False,retired not out,False
+6728,958417,1,Bangladesh,47352,3,10.1,76,61,True,caught,True
+6729,958417,1,Bangladesh,47986,3,15.6,128,96,False,retired not out,False
+7190,1007655,1,Zimbabwe,10423,1,4.3,33,27,True,caught,True
+7191,1007655,1,Zimbabwe,49268,1,,34,,False,retired not out,False
+10553,1187681,1,India,60530,2,11.3,96,69,True,caught,True
+10554,1187681,1,India,48405,2,,138,,False,retired not out,False
+12912,1202016,1,Jersey,99285,7,13.2,67,80,True,lbw,True
+12913,1202016,1,Jersey,58080,7,,67,,False,retired not out,False
+13047,1205260,2,Malawi,65380,6,,94,,True,caught,True
+13048,1205260,2,Malawi,103954,6,,,,False,retired not out,False
+13804,1229822,2,Czech Rep.,106261,1,0.3,0,3,True,bowled,True
+13805,1229822,2,Czech Rep.,103327,1,,9,,False,retired not out,False
+14907,1263165,2,West Indies,72393,3,11.5,70,71,True,bowled,True
+14908,1263165,2,West Indies,61413,3,,76,,False,retired not out,False
+15805,1273144,1,Ghana,53196,3,14.2,117,86,True,lbw,True
+15806,1273144,1,Ghana,65361,3,,127,,False,retired not out,False
+16576,1275268,2,Czech Rep.,103329,4,12.1,117,73,True,stumping,True
+16577,1275268,2,Czech Rep.,109437,4,,138,,False,retired not out,False
+17200,1280063,2,Scotland,46048,1,3.5,32,23,True,caught,True
+17201,1280063,2,Scotland,60204,1,,79,,False,retired not out,False
+17207,1280062,1,Ireland,56811,5,18.2,122,110,True,bowled,True
+17208,1280062,1,Ireland,52628,5,,126,,False,retired not out,False
+17306,1282742,2,Denmark,105677,2,6.4,31,40,True,stumping,True
+17307,1282742,2,Denmark,11960,2,,32,,False,retired not out,False
+17633,1283034,2,Ghana,109779,2,4.4,24,28,True,caught,True
+17634,1283034,2,Ghana,58544,2,,58,,False,retired not out,False
+18225,1286680,1,Bermuda,57723,5,14.3,137,87,True,lbw,True
+18226,1286680,1,Bermuda,71655,5,,,,False,retired not out,False
+18992,1298163,1,Netherlands,49218,1,2.2,7,14,True,caught,True
+18993,1298163,1,Netherlands,93293,1,,18,,False,retired not out,False
+19321,1299578,1,Germany,56356,6,17.4,109,106,True,lbw,True
+19322,1299578,1,Germany,97542,6,,111,,False,retired not out,False
+19902,1310162,1,Spain,111968,5,17.4,112,106,True,caught,True
+19904,1310162,1,Spain,65556,5,,118,,False,retired not out,False
+20354,1310947,1,Afghanistan,74913,3,5.1,46,31,True,caught,True
+20355,1310947,1,Afghanistan,80259,3,,51,,False,retired not out,False
+22862,1323295,1,Zimbabwe,47206,3,12.2,99,74,True,bowled,True
+22863,1323295,1,Zimbabwe,87157,3,,190,,False,retired not out,False
+24321,1343769,2,Eswatini,65340,3,7.5,53,47,True,caught,True
+24322,1343769,2,Eswatini,114172,3,,59,,False,retired not out,False
+25365,1354798,1,Spain,61279,1,3.3,30,21,True,bowled,True
+25366,1354798,1,Spain,63015,1,,128,,False,retired not out,False
+25916,1362817,2,Afghanistan,46888,4,10.2,71,62,True,run out,True
+25917,1362817,2,Afghanistan,65861,4,,71,,False,retired not out,False
+25982,1367728,1,Gibraltar,109868,1,3.1,28,19,True,run out,True
+25983,1367728,1,Gibraltar,93957,1,,44,,False,retired not out,False
+25991,1367728,2,Portugal,103372,1,2.2,19,14,True,lbw,True
+25992,1367728,2,Portugal,57632,1,,22,,False,retired not out,False
+27284,1383082,1,Jersey,106006,4,16.3,157,99,True,caught,True
+27285,1383082,1,Jersey,99277,4,,173,,False,retired not out,False
+27495,1383095,2,Vanuatu,65897,6,14.2,70,86,True,caught,True
+27496,1383095,2,Vanuatu,57074,6,,70,,False,retired not out,False
+28516,1393329,1,Uganda,110337,2,4.2,46,26,True,caught,True
+28517,1393329,1,Uganda,102780,2,,47,,False,retired not out,False
+29512,1400990,2,Sierra Leone,114179,1,3.4,15,22,True,bowled,True
+29514,1400990,2,Sierra Leone,60470,1,,19,,False,retired not out,False
+30096,1388217,1,New Zealand,58403,1,5.1,59,31,True,caught,True
+30097,1388217,1,New Zealand,51088,1,,111,,False,retired not out,False
+30298,1407089,1,Kenya,21463,2,14.6,100,90,True,caught,True
+30300,1407089,1,Kenya,50293,2,,106,,False,retired not out,False
+31161,1416079,2,Sri Lanka,52373,2,6.2,65,38,True,lbw,True
+31162,1416079,2,Sri Lanka,93033,2,,83,,False,retired not out,False
+32349,1426445,2,Lesotho,114005,2,0.5,7,5,True,run out,True
+32350,1426445,2,Lesotho,114004,2,,33,,False,retired not out,False
+32899,1424831,1,Pakistan,56880,2,10.1,84,61,True,caught,True
+32900,1424831,1,Pakistan,54018,2,,103,,False,retired not out,False

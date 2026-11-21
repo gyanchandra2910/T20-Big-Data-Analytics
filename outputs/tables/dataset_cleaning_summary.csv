@@ -1,0 +1,7 @@
+table,raw_rows,cleaned_rows,removed_rows,raw_missing_cells,cleaned_missing_source_cells,raw_duplicate_rows,cleaned_duplicate_rows
+matches,2592,2592,0,1095,1095,0,0
+batting,56357,56331,26,125403,125117,0,0
+bowling,30648,30622,26,7405,7041,0,0
+partnerships,36799,36773,26,286,13,0,0
+fall_of_wicket,33093,33059,34,702,532,0,0
+players,6701,6701,0,12615,12615,0,0

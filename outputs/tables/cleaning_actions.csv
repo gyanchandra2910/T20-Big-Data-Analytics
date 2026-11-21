@@ -1,0 +1,27 @@
+table,cleaning_action,records_or_values_affected
+matches,Remove exact duplicate rows,0
+batting,Remove exact duplicate rows,0
+bowling,Remove exact duplicate rows,0
+partnerships,Remove exact duplicate rows,0
+fall_of_wicket,Remove exact duplicate rows,0
+players,Remove exact duplicate rows,0
+matches,Trim and standardize team aliases,13
+batting,Trim and standardize team aliases,77
+bowling,Trim and standardize team aliases,83
+partnerships,Trim and standardize team aliases,97
+fall_of_wicket,Trim and standardize team aliases,59
+players,Trim and standardize team aliases,0
+batting,Drop empty scorecard placeholders,26
+bowling,Drop empty scorecard placeholders,26
+partnerships,Drop empty scorecard placeholders,26
+fall_of_wicket,Drop empty scorecard placeholders,34
+matches,Set invalid integer statistics to missing,0
+players,Set invalid integer statistics to missing,0
+batting,Set invalid integer statistics to missing,0
+bowling,Set invalid integer statistics to missing,0
+partnerships,Set invalid integer statistics to missing,13
+fall_of_wicket,Set invalid integer statistics to missing,0
+matches,Set impossible toss values to missing,0
+batting,Omit impossible batter totals from numerical analysis,0
+bowling,Flag inconsistent or unparseable overs,0
+fall_of_wicket,Flag unparseable event positions,0

@@ -1,0 +1,94 @@
+table,column,description,dtype,attribute_type,missing,missing_pct,unique_nonmissing
+matches,T20I Match No,T20I number in the source,int64,identifier,0,0.0,2592
+matches,Match ID,Internal match key,int64,identifier,0,0.0,2592
+matches,Match Name,Match display name,object,nominal,0,0.0,2145
+matches,Series ID,Series key,int64,identifier,0,0.0,545
+matches,Series Name,Series display name,object,nominal,0,0.0,536
+matches,Match Date,Match date in ISO order,object,date,11,0.4243827160493827,1399
+matches,Match Format,Match format code,object,nominal,0,0.0,1
+matches,Team1 ID,First listed team's key,int64,identifier,0,0.0,102
+matches,Team1 Name,First listed team,object,nominal,0,0.0,103
+matches,Team1 Captain,First listed captain's player ID,int64,identifier,0,0.0,378
+matches,Team1 Runs Scored,First listed team's total,float64,numerical,13,0.5015432098765432,231
+matches,Team1 Wickets Fell,First listed team's wickets lost,float64,numerical,13,0.5015432098765432,11
+matches,Team1 Extras Rec,Extras in first listed team's total,float64,numerical,13,0.5015432098765432,36
+matches,Team2 ID,Second listed team's key,int64,identifier,0,0.0,102
+matches,Team2 Name,Second listed team,object,nominal,0,0.0,103
+matches,Team2 Captain,Second listed captain's player ID,int64,identifier,0,0.0,361
+matches,Team2 Runs Scored,Second listed team's total,float64,numerical,50,1.9290123456790123,209
+matches,Team2 Wickets Fell,Second listed team's wickets lost,float64,numerical,50,1.9290123456790123,11
+matches,Team2 Extras Rec,Extras in second listed team's total,float64,numerical,50,1.9290123456790123,36
+matches,Match Venue (Stadium),Ground name,object,nominal,0,0.0,220
+matches,Match Venue (City),Venue city,object,nominal,0,0.0,166
+matches,Match Venue (Country),Venue country as listed,object,nominal,0,0.0,66
+matches,Umpire 1,First umpire,object,nominal,2,0.07716049382716049,332
+matches,Umpire 2,Second umpire,object,nominal,2,0.07716049382716049,332
+matches,Match Referee,Match referee,object,nominal,481,18.557098765432098,88
+matches,Toss Winner,Team winning the toss,object,nominal,1,0.038580246913580245,104
+matches,Toss Winner Choice,Toss winner's choice to bat or bowl,object,binary,10,0.38580246913580246,2
+matches,Match Winner,Winner for a decisive result,object,nominal,98,3.7808641975308643,99
+matches,Match Result Text,"Result, margin or reason for no result",object,nominal,0,0.0,2288
+matches,MOM Player,Player of the match ID,float64,identifier,301,11.612654320987655,1018
+matches,Team1 Playing 11,First listed playing team's player IDs,object,identifier,0,0.0,2559
+matches,Team2 Playing 11,Second listed playing team's player IDs,object,identifier,0,0.0,2538
+matches,Debut Players,Debuting player IDs,object,identifier,0,0.0,1241
+batting,Match ID,Internal match key,int64,identifier,0,0.0,2592
+batting,innings,Batting order from the scorecard,int64,ordinal,0,0.0,2
+batting,team,Team on this card,object,nominal,26,0.04613446421917419,105
+batting,batsman,Batter's player ID,float64,identifier,26,0.04613446421917419,3836
+batting,runs,Runs credited to the batter,float64,numerical,14485,25.702219777489933,137
+batting,balls,Balls faced by batter or legal balls bowled,float64,numerical,14485,25.702219777489933,76
+batting,fours,Fours hit or conceded,float64,numerical,14485,25.702219777489933,18
+batting,sixes,Sixes hit or conceded,float64,numerical,14485,25.702219777489933,17
+batting,strikeRate,Batting runs per 100 balls,float64,numerical,14485,25.702219777489933,1714
+batting,isOut,Whether the batter was dismissed,object,binary,26,0.04613446421917419,2
+batting,wicketType,"Dismissal, not out or did not bat status",object,nominal,26,0.04613446421917419,12
+batting,fielders,Fielding player IDs involved in the wicket,object,identifier,24274,43.071845556009016,4190
+batting,bowler,Player ID of the credited bowler,float64,identifier,28600,50.74791064109161,2079
+bowling,Match ID,Internal match key,int64,identifier,0,0.0,2592
+bowling,innings,Batting order from the scorecard,int64,ordinal,0,0.0,2
+bowling,team,Team on this card,object,nominal,26,0.08483424693291569,105
+bowling,opposition,Opponent of the team on this card,object,nominal,26,0.08483424693291569,105
+bowling,bowler id,Bowler's player ID,float64,identifier,26,0.08483424693291569,2648
+bowling,overs,Overs in cricket notation,float64,numerical,26,0.08483424693291569,25
+bowling,balls,Balls faced by batter or legal balls bowled,float64,numerical,26,0.08483424693291569,25
+bowling,maidens,Maiden overs bowled,float64,numerical,26,0.08483424693291569,5
+bowling,conceded,Runs charged to the bowler,float64,numerical,26,0.08483424693291569,73
+bowling,wickets,Wickets credited to the bowler,float64,numerical,26,0.08483424693291569,8
+bowling,economy,Runs conceded per six legal balls,float64,numerical,26,0.08483424693291569,451
+bowling,dots,Dot balls bowled,float64,numerical,2373,7.742756460454189,25
+bowling,fours,Fours hit or conceded,float64,numerical,2373,7.742756460454189,12
+bowling,sixes,Sixes hit or conceded,float64,numerical,2373,7.742756460454189,9
+bowling,wides,Wide runs as listed,float64,numerical,26,0.08483424693291569,12
+bowling,noballs,No-ball runs as listed,float64,numerical,26,0.08483424693291569,6
+partnerships,Match ID,Internal match key,int64,identifier,0,0.0,2592
+partnerships,innings,Batting order from the scorecard,int64,ordinal,0,0.0,2
+partnerships,for wicket,Wicket number that the partnership batted for,float64,ordinal,26,0.07065409386124623,11
+partnerships,team,Team on this card,object,nominal,26,0.07065409386124623,105
+partnerships,opposition,Opponent of the team on this card,object,nominal,26,0.07065409386124623,105
+partnerships,player1,First partner's player ID,float64,identifier,26,0.07065409386124623,2747
+partnerships,player2,Second partner's player ID,float64,identifier,26,0.07065409386124623,3097
+partnerships,player1 runs,Runs credited to first partner,float64,numerical,26,0.07065409386124623,104
+partnerships,player2 runs,Runs credited to second partner,float64,numerical,26,0.07065409386124623,112
+partnerships,player1 balls,Balls faced by first partner,float64,numerical,26,0.07065409386124623,61
+partnerships,player2 balls,Balls faced by second partner,float64,numerical,26,0.07065409386124623,65
+partnerships,partnership runs,Runs added by the pair including extras,float64,numerical,26,0.07065409386124623,183
+partnerships,partnership balls,Partnership balls as recorded,float64,numerical,26,0.07065409386124623,115
+fall_of_wicket,Match ID,Internal match key,int64,identifier,0,0.0,2592
+fall_of_wicket,innings,Batting order from the scorecard,int64,ordinal,0,0.0,2
+fall_of_wicket,team,Team on this card,object,nominal,34,0.10274076088598798,105
+fall_of_wicket,player,Player ID in the fall-of-wicket event,float64,identifier,34,0.10274076088598798,3305
+fall_of_wicket,wicket,Scorecard wicket number,float64,ordinal,34,0.10274076088598798,11
+fall_of_wicket,over,Ball position in cricket notation,float64,numerical,534,1.6136343033269878,128
+fall_of_wicket,runs,Team score when the fall-of-wicket event occurred,float64,numerical,66,0.19943794760221195,253
+players,player_id,Internal player key,int64,identifier,0,0.0,6701
+players,player_object_id,External source player key,int64,identifier,0,0.0,6701
+players,player_name,Player display name,object,nominal,0,0.0,6627
+players,dob,Date of birth as listed,object,date,27,0.40292493657663037,5796
+players,dod,Date of death as listed,object,date,5443,81.22668258468885,1231
+players,gender,Gender code in the player table,object,binary,0,0.0,2
+players,batting_style,Batting hand/style,object,nominal,93,1.3878525593195046,2
+players,bowling_style,Bowling style,object,nominal,1154,17.221310252201164,20
+players,country_id,Source country key,float64,identifier,2,0.029846291598268914,104
+players,image_url,Player image address,object,nominal,2948,43.993433815848384,3749
+players,image_metadata,Player image metadata,object,nominal,2948,43.993433815848384,3753

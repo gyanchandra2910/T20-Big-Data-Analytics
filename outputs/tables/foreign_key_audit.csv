@@ -1,0 +1,14 @@
+table,column,referenced_key,relationship,missing_rows,unmatched_rows,distinct_unmatched_ids
+batting,Match ID,matches.Match ID,many to one,0,0,0
+bowling,Match ID,matches.Match ID,many to one,0,0,0
+partnerships,Match ID,matches.Match ID,many to one,0,0,0
+fall_of_wicket,Match ID,matches.Match ID,many to one,0,0,0
+matches,Team1 Captain,players.player_id,many to one,0,8,2
+matches,Team2 Captain,players.player_id,many to one,0,12,2
+matches,MOM Player,players.player_id,many to one,301,13,12
+batting,batsman,players.player_id,many to one,26,513,159
+batting,bowler,players.player_id,many to one,28600,186,64
+bowling,bowler id,players.player_id,many to one,26,232,92
+partnerships,player1,players.player_id,many to one,26,138,45
+partnerships,player2,players.player_id,many to one,26,427,115
+fall_of_wicket,player,players.player_id,many to one,34,285,110
